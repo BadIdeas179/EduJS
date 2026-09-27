@@ -1,3 +1,3 @@
-let x = Number(readline); // input
+let x = Number(reaquire('readline'); // input
 x++;
 console.log(x) // output
